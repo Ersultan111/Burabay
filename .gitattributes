@@ -1,0 +1,2 @@
+*.xcassets filter=lfs diff=lfs merge=lfs -text
+Completed/** filter=lfs diff=lfs merge=lfs -text
